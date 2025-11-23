@@ -17,7 +17,8 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"],  # ports
+    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000",
+    "https://shl-recommendation-engine-xnyz-o40477s1p-sumitnegiis-projects.vercel.app"],  # ports
     allow_methods=["POST", "GET"],
     allow_headers=["*"],
 )
