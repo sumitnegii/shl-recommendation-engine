@@ -1,0 +1,105 @@
+name,description,skills_required,domain,level
+Gatsby.js Development,Building blazing-fast static and dynamic sites using React.,javascript;react;graphql;gatsby;web dev,Programming,Advanced
+Go Programming Essentials,"Learn the Go language for scalable, concurrent applications.",go;concurrency;systems programming;rest,Programming,Intermediate
+TypeScript Mastery,Adding strong typing to JavaScript for large-scale application development.,typescript;javascript;oop;web dev,Programming,Advanced
+C# and .NET Core,"Building modern, cross-platform enterprise applications.",c#;.net core;oop;azure;web dev,Programming,Intermediate
+iOS App Development with SwiftUI,Building modern Apple apps using the declarative SwiftUI framework.,swift;swiftui;xcode;ios;mobile dev,Programming,Advanced
+Machine Learning Engineering,"Deploying, scaling, and maintaining ML models in production.",python;docker;kubernetes;ml;devops,Data Science,Advanced
+Time Series Forecasting,Advanced techniques for predicting future trends in sequential data.,python;r;stats;time series;forecasting,Data Science,Advanced
+A/B Testing and Experiment Design,Designing and analyzing online experiments for product optimization.,statistics;hypothesis testing;experiment design;data analytics,Data Science,Intermediate
+Data Governance and Ethics,"Establishing policies and standards for data quality, privacy, and compliance.",compliance;gdpr;data policy;risk management,Data Science,Advanced
+Cloud Data Warehousing (Snowflake),Designing and optimizing modern cloud data warehouse architectures.,sql;snowflake;cloud;data architecture;etl,Data Science,Advanced
+Agile Scrum Master Certification,Mastering the role of Scrum Master and facilitating Agile teams.,scrum;agile;facilitation;coaching;team management,Management,Intermediate
+IT Service Management (ITSM),Implementing ITIL frameworks for efficient delivery of IT services.,itil;itsm;service delivery;operations;sla management,Management,Intermediate
+Negotiation for Managers,High-stakes negotiation strategies for internal and external business deals.,negotiation;conflict resolution;strategy;influence,Management,Advanced
+Employee Performance Management,"Setting goals, providing feedback, and conducting meaningful reviews.",performance review;feedback;hr;coaching;management,Management,Intermediate
+OKR Deployment Workshop,Hands-on training for setting Objectives and Key Results organization-wide.,okr;goal setting;strategy;change management,Management,Advanced
+Consumer Behavior Analysis,Understanding the psychological drivers behind purchasing decisions.,consumer psychology;marketing;data analysis;market research,Business,Intermediate
+E-commerce SEO Strategy,Optimizing product pages and site structure for maximum organic visibility.,seo;ecommerce;keyword research;content marketing,Business,Advanced
+Financial Modeling for Startups,Building 3-statement models for fundraising and operational planning.,excel;financial modeling;valuation;startup finance,Finance,Advanced
+Alternative Investments (Hedge Funds),"Exploring non-traditional assets and strategies (Private Equity, Hedge Funds).",finance;investment;private equity;hedge funds;derivatives,Finance,Advanced
+Wealth Management Principles,Comprehensive approach to high-net-worth individual financial planning.,finance;estate planning;tax law;investment management,Finance,Advanced
+Insurance and Risk Mitigation,Understanding different insurance types and using them for personal/business risk transfer.,insurance;risk management;actuarial science;finance,Finance,Beginner
+Macroeconomic Indicators,"Interpreting data like GDP, unemployment, and inflation for investment decisions.",macroeconomics;gdp;inflation;statistics;finance,Finance,Intermediate
+Advanced Public Speaking: Delivery,"Mastering vocal projection, pacing, pauses, and stage movement.",public speaking;vocal training;delivery;performance,Soft Skills,Advanced
+Empathy in Professional Settings,Practical techniques for reading emotions and responding with compassion.,empathy;emotional intelligence;communication;soft skills,Soft Skills,Intermediate
+Managing Up and Influencing Stakeholders,Strategies for effectively communicating with and influencing senior leadership.,influence;stakeholder management;communication;politics,Soft Skills,Advanced
+Building Resilience to Setbacks,Mental frameworks and techniques for bouncing back from failure and stress.,resilience;mindset;psychology;stress management,Soft Skills,Intermediate
+Mindfulness-Based Stress Reduction (MBSR),Formal training in meditation and body awareness to reduce stress.,mindfulness;meditation;stress reduction;cognitive therapy,Health & Wellness,Intermediate
+Keto and Low-Carb Diet Science,"Understanding metabolic states, fat adaptation, and dietary implementation.",nutrition;ketogenic;metabolism;diet science,Health & Wellness,Intermediate
+Strength Training for Women,Designing progressive programs focused on female physiology and goals.,weight training;fitness;physiology;exercise programming,Health & Wellness,Intermediate
+Advanced Flexibility and Mobility,Techniques like PNF stretching and specialized joint mobility drills.,stretching;flexibility;mobility;physical therapy;yoga,Health & Wellness,Advanced
+Ayurveda for Beginners,"Introduction to Doshas, natural remedies, and holistic Indian medicine.",ayurveda;holistic health;indian medicine;doshas,Health & Wellness,Beginner
+First Aid and CPR Certification,Essential skills for emergency response and basic life support.,first aid;cpr;emergency response;life support,Health & Wellness,Beginner
+Applied Kinesiology,The study of human movement and performance optimization.,kinesiology;biomechanics;anatomy;physiology;sports science,Health & Wellness,Advanced
+Conversational Spanish (Level 2),"Intermediate vocabulary, past tense, and complex sentence structure.",spanish;grammar;vocabulary;conversation,Languages,Intermediate
+Business English Communication,"Professional writing, email etiquette, and meeting phrases for the global workplace.",english;business communication;writing;professionalism,Languages,Intermediate
+Japanese JLPT N4 Preparation,Focused study on grammar and vocabulary required for the intermediate N4 level test.,japanese;jlpt;grammar;vocabulary;kanji,Languages,Advanced
+Intro to Sign Language (ASL),"Basic finger-spelling, common phrases, and non-manual signals.",asl;sign language;communication;visual language,Languages,Beginner
+Introduction to Latin,"Basic grammar, declensions, and reading classical texts.",latin;grammar;history;classical studies,Languages,Beginner
+Trade Skill: Residential Painting,"Preparation, technique, trim work, and selecting materials for interior/exterior.",painting;home improvement;surface prep;finish work,Trade Skills,Beginner
+Trade Skill: Tiling and Grouting,"Cutting, laying ceramic/porcelain tile, and professional grouting techniques.",tiling;grout;masonry;home repair;construction,Trade Skills,Intermediate
+Trade Skill: Woodworking Joinery,"Mastering dovetails, mortise and tenon, and other strong wood joints.",woodworking;carpentry;joinery;tools;craftsmanship,Trade Skills,Advanced
+Trade Skill: Welding Basics (MIG/TIG),Introduction to metal inert gas (MIG) and tungsten inert gas (TIG) welding.,welding;mig;tig;metalworking;safety,Trade Skills,Intermediate
+Trade Skill: Locksmithing Fundamentals,"Picking, rekeying, and installing basic residential and commercial locks.",locksmithing;security;mechanics;tools,Trade Skills,Intermediate
+Trade Skill: Drone Piloting and Photography,"Safe operation, flight regulations, and aerial photography/videography.",drone;faa regulations;piloting;photography;videography,Trade Skills,Intermediate
+Creative Writing: Screenplay Structure,"Three-act structure, scene construction, and formatting industry standards.",screenwriting;structure;dialogue;film;storytelling,Creative,Advanced
+Digital Photography: Manual Mode,"Mastering the exposure triangle (aperture, shutter speed, ISO).",photography;manual mode;aperture;shutter speed;iso,Creative,Intermediate
+Podcasting: Advanced Audio Editing,"Noise reduction, EQ, compression, and mastering for professional sound.",audio editing;mixing;mastering;podcasting;audacity,Creative,Advanced
+Graphic Design: Typography & Layout,"Principles of visual hierarchy, font pairing, and grid systems.",typography;graphic design;layout;visual hierarchy;adobe indesign,Creative,Intermediate
+Oil Painting Techniques,"Mastering layering, blending, light, and shadow in oil paint.",oil painting;blending;layering;art;technique,Creative,Intermediate
+Existentialism and Meaning,"Deep dive into philosophical questions of purpose, freedom, and absurdity.",philosophy;existentialism;sartre;camus;ethics,Humanities,Advanced
+The History of Science (Ancient to Renaissance),"Key discoveries, thinkers, and shifts in scientific methodology.",history;science;philosophy;ancient greece;renaissance,Humanities,Intermediate
+World Mythology: Comparative Study,"Analysis of creation myths, heroic journeys, and global archetypes.",mythology;folklore;comparative religion;archetypes,Humanities,Intermediate
+Introduction to Judaism,"History, texts (Torah, Talmud), holidays, and major branches.",judaism;religion;torah;history;culture,Humanities,Beginner
+20th Century Philosophy,"Movements like Logical Positivism, Post-Structuralism, and Critical Theory.",philosophy;post-structuralism;critical theory;logic,Humanities,Advanced
+Astrophysics: Black Holes and Quasars,"The physics of extreme gravity, accretion disks, and cosmic phenomena.",astrophysics;black holes;general relativity;physics,Science,Advanced
+Human Evolution and Primatology,"Fossil record, genetics, and the behavior of our closest primate relatives.",evolution;anthropology;primatology;genetics;biology,Science,Intermediate
+Ecology: Ecosystem Modeling,Using mathematical models to simulate population dynamics and environmental change.,ecology;modeling;mathematics;conservation;simulation,Science,Advanced
+Chemistry: Spectroscopy,"Principles of IR, NMR, and Mass Spectroscopy for molecular analysis.",chemistry;spectroscopy;molecular analysis;physics;lab skills,Science,Advanced
+Applied Data Science in Healthcare,"Using ML to improve diagnostics, drug discovery, and patient outcomes.",python;ml;healthcare;data science;bioinformatics,Data Science,Advanced
+Behavioral Data Analytics,"Tracking user engagement, churn, and conversion using behavioral data.",data analytics;google analytics;sql;user research;psychology,Data Science,Intermediate
+Advanced Shell Scripting (Bash),Writing complex automation scripts for system administration tasks.,bash;linux;shell scripting;sysadmin;automation,Programming,Advanced
+Full Stack Development with Django,Building complete web applications using Python's robust Django framework.,python;django;sql;full stack;web dev,Programming,Intermediate
+Real-Time Web with WebSockets,Implementing bidirectional communication for live data updates.,javascript;websockets;node.js;real-time;web dev,Programming,Advanced
+Leading Virtual and Hybrid Teams,"Best practices for communication, technology, and inclusion in mixed work models.",leadership;remote work;communication;inclusion;team management,Management,Intermediate
+Advanced Business Ethics,"Case studies in corporate governance, whistleblowing, and social responsibility.",ethics;corporate governance;compliance;philosophy,Management,Advanced
+B2C Marketing and Customer Acquisition,"Strategies for direct-to-consumer marketing, channels, and conversion funnels.",marketing;b2c;conversion;digital advertising;seo,Business,Intermediate
+Excel Power Query/Power Pivot,"Advanced data manipulation, ETL, and modeling within the Excel environment.",excel;power query;etl;data modeling;business intelligence,Data Science,Intermediate
+Personal Tax Optimization (Advanced),"Strategies for complex tax situations, investments, and business deductions.",tax law;finance;investing;accounting;cpa,Finance,Advanced
+Microservices Security,"Securing APIs, service meshes, and managing identity in a distributed system.",microservices;security;api;devops;cloud security,Technical,Advanced
+Web Accessibility (Screen Reader Testing),Hands-on testing and remediation using NVDA and VoiceOver tools.,accessibility;wcag;screen reader;a11y;testing,Technical,Intermediate
+Mindfulness in Leadership,Applying focused attention and self-awareness to make better leadership decisions.,mindfulness;leadership;emotional intelligence;decision making,Leadership,Intermediate
+Critical Thinking: Argument Mapping,Visualizing complex arguments to identify flaws and logical relationships.,critical thinking;logic;argument mapping;analysis,Cognitive,Intermediate
+Public Speaking: Visual Aid Design,"Creating effective, non-distracting slides and multimedia presentations.",presentation skills;design;powerpoint;visual communication,Soft Skills,Beginner
+Meditation for Sleep,Guided techniques and physiological understanding of using meditation to improve sleep quality.,meditation;sleep;insomnia;mindfulness;health,Health & Wellness,Beginner
+Plant-Based Nutrition,Designing a balanced diet that meets all essential nutrient requirements without meat.,nutrition;vegan;vegetarian;dietetics;health,Health & Wellness,Intermediate
+Conversational French (Level 2),"Mastering common idioms, conditional tense, and conversational flow.",french;grammar;conversation;idioms,Languages,Intermediate
+Trade Skill: Home Energy Audit,"Identifying and sealing air leaks, assessing insulation, and reducing energy bills.",energy audit;hvac;sustainability;home repair,Trade Skills,Intermediate
+Creative Coding: Generative Art,Using algorithms to automatically create unique visual and musical art forms.,creative coding;p5.js;algorithms;generative art,Creative,Advanced
+History of the Renaissance,"Art, philosophy, politics, and culture in 14th-16th century Europe.",history;renaissance;art history;philosophy;europe,Humanities,Intermediate
+Cognitive Biases in Trading,Recognizing psychological errors that affect investment and trading decisions.,cognitive biases;trading;finance;psychology;decision making,Finance,Intermediate
+Systems Engineering Principles,"Holistic view of designing, integrating, and managing complex systems over their lifecycle.",systems engineering;architecture;modeling;lifecycle,Technical,Advanced
+Digital Asset Management (DAM),"Strategies for organizing, tagging, and distributing large libraries of digital assets.",dam;content management;metadata;creative operations,Business,Intermediate
+Conflict Resolution: Difficult Conversations,"Frameworks for navigating high-emotion, high-stakes verbal exchanges.",conflict resolution;communication;negotiation;soft skills,Soft Skills,Intermediate
+Biochemistry: Metabolism,"The chemical reactions and pathways that sustain life (glycolysis, TCA cycle).",biochemistry;metabolism;chemistry;biology;molecular,Science,Advanced
+Cybersecurity: Penetration Testing,"Ethical hacking methodology, tools, and reporting vulnerabilities.",penetration testing;ethical hacking;network security;kali linux,Technical,Advanced
+Risk Management in Project Management,"Identifying, assessing, and responding to threats and opportunities in projects.",project management;risk assessment;pmi;planning,Management,Intermediate
+Advanced Excel Data Visualization,"Creating custom charts, dashboards, and infographics in Excel.",excel;data visualization;charting;dashboards,Data Science,Intermediate
+Trade Skill: Basic Automotive Diagnostics,Using OBD-II readers and common tools to troubleshoot engine light issues.,automotive;diagnostics;obd-ii;mechanics;troubleshooting,Trade Skills,Intermediate
+Philosophy of Aesthetics,"Questions of beauty, art, taste, and the nature of artistic judgment.",aesthetics;philosophy;art;beauty;judgment,Humanities,Advanced
+Intercultural Communication,Understanding and adapting communication styles across different cultural norms.,intercultural;communication;global;culture;soft skills,Soft Skills,Intermediate
+Advanced Financial Accounting (IFRS),Detailed study of International Financial Reporting Standards.,accounting;ifrs;gaap;financial reporting;audit,Finance,Advanced
+Introduction to Hinduism and Buddhism,"Comparative study of core tenets, historical development, and sacred texts.",hinduism;buddhism;religion;philosophy;comparative,Humanities,Beginner
+Vocal Health and Training,Techniques for singers and speakers to maintain vocal endurance and range.,vocal training;singing;speech;voice health,Health & Wellness,Intermediate
+User Experience (UX) Writing,"Crafting clear, helpful, and on-brand microcopy for digital interfaces.",ux writing;microcopy;content strategy;user experience,Creative,Intermediate
+Introduction to Kotlin,"Learning the modern, versatile language for Android and backend development.",kotlin;android;java;programming;backend,Programming,Intermediate
+Data Visualization with Matplotlib/Seaborn,"Creating static, publication-quality plots in Python.",python;matplotlib;seaborn;data visualization;data analytics,Data Science,Intermediate
+Advanced Leadership Coaching,One-on-one methods for executive development and behavioral change.,leadership;coaching;executive development;hr;psychology,Leadership,Advanced
+Business Valuation: Small Business,"Methods for determining the worth of private, small-to-medium enterprises.",business valuation;small business;finance;multiples,Finance,Intermediate
+Supply Chain Optimization,"Using data and models to improve efficiency, cost, and resilience in logistics.",supply chain;logistics;optimization;data modeling;operations,Business,Advanced
+Introduction to German Language,"Basic grammar, greetings, and simple sentence formation.",german;grammar;vocabulary;conversation,Languages,Beginner
+Trade Skill: Basic Home Automation,"Installing and configuring smart lights, thermostats, and security systems.",home automation;iot;smart home;installation;technical,Trade Skills,Beginner
+Advanced Digital Marketing Strategy,"Integrating SEO, PPC, social, and email into one cohesive campaign.",digital marketing;seo;ppc;strategy;campaign planning,Business,Advanced
+Astrology and Archetypes,Analyzing the history and psychological basis of astrological concepts.,astrology;archetypes;psychology;history;esoteric,Humanities,Beginner
+Health & Wellness Coaching,"Guiding clients through goal setting, motivation, and lifestyle change.",health coaching;motivation;goal setting;behavioral change,Health & Wellness,Intermediate
