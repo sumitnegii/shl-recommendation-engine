@@ -1,5 +1,0 @@
-[00:00:00.709] Server  LOG     
-[00:00:00.709] Server  LOG        We detected TypeScript in your project and created a tsconfig.json file for you.
-[00:00:00.786] Server  LOG      ✓ Ready in 520ms
-[00:00:12.718] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:18.424] Browser ERROR   Error connecting to backend {}

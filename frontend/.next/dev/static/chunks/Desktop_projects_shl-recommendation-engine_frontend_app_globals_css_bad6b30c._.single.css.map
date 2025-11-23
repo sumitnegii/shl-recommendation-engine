@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/Desktop/projects/shl-recommendation-engine/frontend/app/globals.css"],"sourcesContent":["@import \"tailwindcss\";\n\nbody {\n  font-family: Arial, sans-serif;\n  background: #f5f5f5;\n  margin: 0;\n  padding: 0;\n}\n\ninput, button {\n  padding: 10px;\n  font-size: 16px;\n}\n\nbutton {\n  cursor: pointer;\n  background: #0070f3;\n  color: white;\n  border: none;\n  border-radius: 5px;\n}\n\nbutton:hover {\n  background: #005bb5;\n}\n\n"],"names":[],"mappings":"AAEA;;;;;;;AAOA;;;;;AAKA;;;;;;;;AAQA"}}]
-}
